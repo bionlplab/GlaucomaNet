@@ -26,3 +26,11 @@ A deep-learning algorithm for the diagnosis of primary open-angle glaucoma from 
 ```sh
 python train.py
 ```
+
+### Reference
+
+
+
+### Acknowledgment
+
+This project was supported by the National Library of Medicine under award number 4R00LM013001. This work was also supported by awards from the National Eye Institute, the National Center on Minority Health and Health Disparities, National Institutes of Health (grants EY09341, EY09307), Horncrest Foundation, awards to the Department of Ophthalmology and Visual Sciences at Washington University, the NIH Vision Core Grant P30 EY 02687, Merck Research Laboratories, Pfizer, Inc., White House Station, New Jersey, and unrestricted grants from Research to Prevent Blindness, Inc., New York, NY.
