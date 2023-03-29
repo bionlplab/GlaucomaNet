@@ -14,12 +14,15 @@ A deep-learning algorithm for the diagnosis of primary open-angle glaucoma from 
 ### Prerequisites
 
 * python >=3.6
-* keras
-* tensorflow-gpu = 2.2.0
+* pytorch = 1.11.0
+* torchvision = 0.12.0
 * sklearn
 * pandas
 * opencv
 * skimage
+* json
+* pickle
+* tqdm
 
 ### Quickstart
 
